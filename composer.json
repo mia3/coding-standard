@@ -1,0 +1,16 @@
+{
+    "name": "mia3/quality-assurance",
+    "description": "MIA3 Quality Assurance Tools/Configs",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "marc@mia3.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/flex": "*",
+        "symplify/easy-coding-standard": "^6.0",
+        "doctrine/coding-standard": "^6.0"
+    }
+}
