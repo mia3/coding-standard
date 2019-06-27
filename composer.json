@@ -8,9 +8,19 @@
             "email": "marc@mia3.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MIA3\\CodingStandard\\": "src/"
+        }
+    },
     "require-dev": {
-        "symfony/flex": "*",
         "symplify/easy-coding-standard": "^6.0",
-        "doctrine/coding-standard": "^6.0"
+        "doctrine/coding-standard": "^6.0",
+        "symfony/finder": "^4.3",
+        "symfony/process": "^4.3",
+        "symfony/console": "^4.3"
+    },
+    "require": {
+        "symfony/var-dumper": "^4.3"
     }
 }

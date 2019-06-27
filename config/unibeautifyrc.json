@@ -1,0 +1,36 @@
+{
+  "HTML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "JSON": {
+    "beautifiers": [
+      "Prettier",
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "Markdown": {
+    "beautifiers": [
+      "Prettier"
+    ]
+  },
+  "Twig": {
+    "beautifiers": [
+      "Pretty Diff"
+    ]
+  },
+  "XML": {
+    "beautifiers": [
+      "Pretty Diff",
+      "JS-Beautify"
+    ]
+  },
+  "Vue": {
+    "beautifiers": [
+      "Prettier"
+    ]
+  }
+}

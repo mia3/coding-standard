@@ -1,7 +1,0 @@
-imports:
-    - { resource: '../../../symplify/easy-coding-standard/config/set/clean-code.yaml' }
-    - { resource: '../../../symplify/easy-coding-standard/config/set/symfony.yaml' }
-
-parameters:
-    skip:
-        PhpCsFixer\Fixer\ControlStructure\YodaStyleFixer: ~

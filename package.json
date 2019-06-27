@@ -1,0 +1,21 @@
+{
+    "name": "mia3-quality-assurance",
+    "version": "1.0.0",
+    "description": "MIA3 Quality Assurance",
+    "author": "Marc Neuhaus <marc@mia3.com>",
+    "private": true,
+    "dependencies": {
+        "@lerna/list": "^3.15.0",
+        "@unibeautify/beautifier-js-beautify": "^0.4.0",
+        "@unibeautify/beautifier-prettier": "^0.9.0",
+        "@unibeautify/beautifier-prettydiff": "^0.6.0",
+        "@unibeautify/cli": "^0.5.1",
+        "beautifier-prettier": "^0.1.2",
+        "js-beautify": "^1.10.0",
+        "prettier": "^1.18.2",
+        "prettydiff2": "^2.2.8",
+        "standard": "^12.0.1",
+        "stylelint": "^10.1.0",
+        "unibeautify": "^0.17.0"
+    }
+}

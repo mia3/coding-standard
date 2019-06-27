@@ -1,0 +1,11 @@
+imports:
+    - { resource: '../../../symplify/easy-coding-standard/config/set/clean-code.yaml' }
+    - { resource: '../../../symplify/easy-coding-standard/config/set/symfony.yaml' }
+
+services:
+    PhpCsFixer\Fixer\Operator\ConcatSpaceFixer:
+        spacing: one
+
+parameters:
+    skip:
+        PhpCsFixer\Fixer\ControlStructure\YodaStyleFixer: ~
