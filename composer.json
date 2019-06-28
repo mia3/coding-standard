@@ -1,6 +1,6 @@
 {
-    "name": "mia3/quality-assurance",
-    "description": "MIA3 Quality Assurance Tools/Configs",
+    "name": "mia3/coding-standard",
+    "description": "MIA3 Coding Standard Tools/Configs",
     "type": "library",
     "authors": [
         {
